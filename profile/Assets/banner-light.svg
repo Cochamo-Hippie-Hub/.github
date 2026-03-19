@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" fill="none">
+  <defs>
+    <linearGradient id="bg-light" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#f0f7f0"/>
+      <stop offset="50%" stop-color="#e8f5e9"/>
+      <stop offset="100%" stop-color="#f0f7f0"/>
+    </linearGradient>
+    <linearGradient id="accent-light" x1="0" y1="0" x2="400" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0d7d5f"/>
+      <stop offset="100%" stop-color="#16a085"/>
+    </linearGradient>
+    <linearGradient id="mountain1-l" x1="0" y1="200" x2="0" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#b8d8be" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#e8f5e9" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="mountain2-l" x1="0" y1="220" x2="0" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#c8e6c9" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#f0f7f0" stop-opacity="0.1"/>
+    </linearGradient>
+    <pattern id="grid-light" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#0d7d5f" stroke-width="0.3" opacity="0.06"/>
+    </pattern>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="320" fill="url(#bg-light)"/>
+  <rect width="1200" height="320" fill="url(#grid-light)"/>
+  
+  <!-- Mountain silhouettes -->
+  <path d="M0,320 L0,260 L80,220 L160,250 L240,190 L320,230 L400,170 L440,200 L500,160 L560,195 L620,175 L700,210 L780,180 L860,220 L940,195 L1000,240 L1060,210 L1120,250 L1200,230 L1200,320 Z" fill="url(#mountain1-l)"/>
+  <path d="M0,320 L0,280 L100,260 L200,275 L300,245 L400,265 L500,235 L600,255 L700,240 L800,260 L900,250 L1000,270 L1100,255 L1200,265 L1200,320 Z" fill="url(#mountain2-l)"/>
+  
+  <!-- Accent line -->
+  <line x1="100" y1="155" x2="500" y2="155" stroke="url(#accent-light)" stroke-width="2" opacity="0.6"/>
+  
+  <!-- Main title -->
+  <text x="100" y="130" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="52" font-weight="700" fill="#1a3a2a" letter-spacing="-1">
+    Cochamó Hippie Hub
+  </text>
+  
+  <!-- Tagline -->
+  <text x="100" y="190" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="18" fill="#0d7d5f" font-weight="400" letter-spacing="3">
+    OPEN SOURCE CONSERVATION TECH
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="100" y="225" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#4a7c59" font-weight="300" letter-spacing="1" opacity="0.8">
+    Bridging innovators with territory · Cochamó, Chilean Patagonia
+  </text>
+  
+  <!-- Code bracket decoration -->
+  <text x="1020" y="140" font-family="'Courier New', monospace" font-size="80" fill="#0d7d5f" opacity="0.08" font-weight="700">{ }</text>
+  
+  <!-- Leaf decoration -->
+  <g transform="translate(1080, 240)" opacity="0.12">
+    <path d="M0,0 Q-15,-30 0,-60 Q15,-30 0,0 Z" fill="#0d7d5f" stroke="none"/>
+    <path d="M0,0 Q-25,-20 -10,-50 Q5,-20 0,0 Z" fill="#16a085" stroke="none"/>
+    <line x1="0" y1="0" x2="0" y2="20" stroke="#0d7d5f" stroke-width="1.5"/>
+  </g>
+</svg>
