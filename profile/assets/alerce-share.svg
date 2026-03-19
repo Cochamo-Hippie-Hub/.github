@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 600 110">
+  <rect width="600" height="110" fill="none"/>
+  <text x="10" y="14" fill="#4CAF50" font-size="11" font-weight="700" font-family="system-ui,sans-serif">🪵 Alerce forests — Pucheguín holds 11% of Chile's total</text>
+  <rect x="10" y="24" width="580" height="24" rx="4" fill="#0d2818" stroke="#2E7D32" stroke-width="0.5"/>
+  <text x="300" y="40" text-anchor="middle" fill="#4CAF50" font-size="9" font-weight="500" font-family="system-ui,sans-serif">Chile total alerce habitat: ~160,000 ha</text>
+  <rect x="10" y="24" width="64" height="24" rx="4" fill="#2E7D32" opacity="0.7"/>
+  <text x="42" y="40" text-anchor="middle" fill="#fff" font-size="8" font-weight="700" font-family="monospace">11%</text>
+  <text x="10" y="68" fill="#4CAF50" font-size="11" font-weight="700" font-family="monospace">17,737 ha</text>
+  <text x="110" y="68" fill="#8b949e" font-size="10" font-family="system-ui,sans-serif">of alerce in Pucheguín · 58,819 ha primary forest total</text>
+  <text x="10" y="88" fill="#8b949e" font-size="10" font-family="system-ui,sans-serif">Patagonian forests store</text>
+  <text x="180" y="88" fill="#4CAF50" font-size="10" font-weight="700" font-family="system-ui,sans-serif">2× more carbon per hectare</text>
+  <text x="400" y="88" fill="#8b949e" font-size="10" font-family="system-ui,sans-serif">than Amazon rainforest</text>
+  <text x="10" y="106" fill="#8b949e" font-size="9" font-family="system-ui,sans-serif">Species: Fitzroya cupressoides · Lifespan: ~3,600 years · One of the planet's longest-living species</text>
+</svg>

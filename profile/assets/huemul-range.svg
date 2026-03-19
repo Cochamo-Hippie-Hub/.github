@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 600 100">
+  <rect width="600" height="100" fill="none"/>
+  <text x="10" y="14" fill="#ff6b6b" font-size="11" font-weight="700" font-family="system-ui,sans-serif">🦌 Huemul deer — northernmost subpopulation confirmed in Pucheguín</text>
+  <text x="10" y="30" fill="#8b949e" font-size="9" font-family="system-ui,sans-serif">Chile's national symbol · Endangered (IUCN) · Camera traps confirmed presence</text>
+  <rect x="10" y="40" width="580" height="14" rx="7" fill="#0d1b2a"/>
+  <rect x="10" y="40" width="420" height="14" rx="7" fill="#162447" stroke="#1f6feb" stroke-width="0.5"/>
+  <text x="210" y="50" text-anchor="middle" fill="#58a6ff" font-size="8" font-weight="500" font-family="system-ui,sans-serif">Known huemul range (Patagonia)</text>
+  <circle cx="420" cy="47" r="6" fill="#ff6b6b" stroke="#0d1117" stroke-width="2"/>
+  <text x="420" y="72" text-anchor="middle" fill="#ff6b6b" font-size="10" font-weight="700" font-family="system-ui,sans-serif">PUCHEGUÍN — Northern limit</text>
+  <text x="10" y="65" fill="#8b949e" font-size="7" font-family="system-ui,sans-serif">S ← Tierra del Fuego</text>
+  <text x="590" y="65" text-anchor="end" fill="#8b949e" font-size="7" font-family="system-ui,sans-serif">Northern limit → N</text>
+  <text x="10" y="90" fill="#8b949e" font-size="9" font-family="system-ui,sans-serif">Also in Pucheguín:</text>
+  <text x="120" y="90" fill="#b088d4" font-size="9" font-family="system-ui,sans-serif">Darwin's frog</text>
+  <text x="230" y="90" fill="#e67e22" font-size="9" font-family="system-ui,sans-serif">Monito del monte</text>
+  <text x="370" y="90" fill="#1abc9c" font-size="9" font-family="system-ui,sans-serif">Patagonian vizcacha</text>
+  <text x="520" y="90" fill="#F9A825" font-size="9" font-family="system-ui,sans-serif">Puma</text>
+</svg>

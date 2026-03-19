@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 820 180">
+  <rect width="820" height="180" fill="none"/>
+  <text x="410" y="16" text-anchor="middle" fill="#8b949e" font-size="11" font-family="system-ui,sans-serif" font-weight="600">Pucheguín connects 1.6M ha of protected areas across Chile &amp; Argentina</text>
+  <rect x="10" y="34" width="105" height="60" rx="6" fill="#162447" stroke="#1f6feb" stroke-width="0.5"/>
+  <text x="62" y="56" text-anchor="middle" fill="#58a6ff" font-size="9" font-weight="600" font-family="system-ui,sans-serif">PN Nahuel Huapi</text>
+  <text x="62" y="80" text-anchor="middle" fill="#8b949e" font-size="8" font-family="system-ui,sans-serif">🇦🇷 717,261 ha</text>
+  <rect x="125" y="34" width="100" height="60" rx="6" fill="#162447" stroke="#1f6feb" stroke-width="0.5"/>
+  <text x="175" y="56" text-anchor="middle" fill="#58a6ff" font-size="9" font-weight="600" font-family="system-ui,sans-serif">PN Lago Puelo</text>
+  <text x="175" y="80" text-anchor="middle" fill="#8b949e" font-size="8" font-family="system-ui,sans-serif">🇦🇷 23,700 ha</text>
+  <line x1="245" y1="14" x2="245" y2="120" stroke="#8b949e" stroke-width="0.5" stroke-dasharray="4 2"/>
+  <text x="245" y="136" text-anchor="middle" fill="#8b949e" font-size="7" font-family="system-ui,sans-serif">🇦🇷 / 🇨🇱 border</text>
+  <rect x="265" y="24" width="165" height="86" rx="10" fill="#0d2818" stroke="#2E7D32" stroke-width="2"/>
+  <text x="347" y="50" text-anchor="middle" fill="#4CAF50" font-size="14" font-weight="700" font-family="system-ui,sans-serif">PUCHEGUÍN</text>
+  <text x="347" y="66" text-anchor="middle" fill="#4CAF50" font-size="11" font-weight="600" font-family="monospace">133,000 ha</text>
+  <text x="347" y="82" text-anchor="middle" fill="#8b949e" font-size="8" font-family="system-ui,sans-serif">The missing puzzle piece</text>
+  <rect x="305" y="96" width="84" height="10" rx="3" fill="#2E7D32" opacity="0.4"/>
+  <text x="347" y="104" text-anchor="middle" fill="#e6edf3" font-size="6" font-weight="600" font-family="system-ui,sans-serif">Sanctuary 11,400 ha</text>
+  <rect x="450" y="34" width="100" height="60" rx="6" fill="#162447" stroke="#1f6feb" stroke-width="0.5"/>
+  <text x="500" y="56" text-anchor="middle" fill="#58a6ff" font-size="9" font-weight="600" font-family="system-ui,sans-serif">PN Hornopirén</text>
+  <text x="500" y="74" text-anchor="middle" fill="#8b949e" font-size="8" font-family="system-ui,sans-serif">🇨🇱 48,232 ha</text>
+  <rect x="560" y="34" width="110" height="60" rx="6" fill="#162447" stroke="#1f6feb" stroke-width="0.5"/>
+  <text x="615" y="52" text-anchor="middle" fill="#58a6ff" font-size="9" font-weight="600" font-family="system-ui,sans-serif">PN Pumalín</text>
+  <text x="615" y="64" text-anchor="middle" fill="#58a6ff" font-size="8" font-family="system-ui,sans-serif">Douglas Tompkins</text>
+  <text x="615" y="80" text-anchor="middle" fill="#8b949e" font-size="8" font-family="system-ui,sans-serif">🇨🇱 402,392 ha</text>
+  <rect x="680" y="34" width="90" height="60" rx="6" fill="#162447" stroke="#1f6feb" stroke-width="0.5"/>
+  <text x="725" y="52" text-anchor="middle" fill="#58a6ff" font-size="8" font-weight="600" font-family="system-ui,sans-serif">Reserva Biósfera</text>
+  <text x="725" y="64" text-anchor="middle" fill="#58a6ff" font-size="7" font-family="system-ui,sans-serif">UNESCO</text>
+  <text x="725" y="80" text-anchor="middle" fill="#8b949e" font-size="7" font-family="system-ui,sans-serif">Bosques Templados</text>
+  <line x1="115" y1="64" x2="123" y2="64" stroke="#2E7D32" stroke-width="1.5"/>
+  <line x1="225" y1="64" x2="263" y2="64" stroke="#2E7D32" stroke-width="2"/>
+  <line x1="430" y1="64" x2="448" y2="64" stroke="#2E7D32" stroke-width="2"/>
+  <line x1="550" y1="64" x2="558" y2="64" stroke="#2E7D32" stroke-width="1.5"/>
+  <line x1="670" y1="64" x2="678" y2="64" stroke="#2E7D32" stroke-width="1.5"/>
+  <rect x="230" y="150" width="360" height="22" rx="11" fill="#2a1f00" stroke="#F9A825" stroke-width="0.5"/>
+  <text x="410" y="165" text-anchor="middle" fill="#F9A825" font-size="10" font-weight="700" font-family="system-ui,sans-serif">Total corridor: 1,640,000+ ha across Chile &amp; Argentina</text>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 820 170">
+  <rect width="820" height="170" fill="none"/>
+  <text x="410" y="14" text-anchor="middle" fill="#8b949e" font-size="10" font-weight="600" font-family="system-ui,sans-serif">Conservation progress — April 2024 → March 2026</text>
+  <line x1="40" y1="30" x2="40" y2="130" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="40" y1="130" x2="790" y2="130" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="40" y1="90" x2="790" y2="90" stroke="#30363d" stroke-width="0.5" stroke-dasharray="3 3" opacity="0.3"/>
+  <line x1="40" y1="50" x2="790" y2="50" stroke="#30363d" stroke-width="0.5" stroke-dasharray="3 3" opacity="0.3"/>
+  <text x="36" y="134" text-anchor="end" fill="#8b949e" font-size="9" font-family="monospace">$0M</text>
+  <text x="36" y="94" text-anchor="end" fill="#8b949e" font-size="9" font-family="monospace">$40M</text>
+  <text x="36" y="54" text-anchor="end" fill="#8b949e" font-size="9" font-family="monospace">$78M</text>
+  <text x="80" y="150" text-anchor="middle" fill="#8b949e" font-size="9" font-family="monospace">Apr 24</text>
+  <text x="230" y="150" text-anchor="middle" fill="#8b949e" font-size="9" font-family="monospace">Sep 24</text>
+  <text x="380" y="150" text-anchor="middle" fill="#8b949e" font-size="9" font-family="monospace">Mar 25</text>
+  <text x="530" y="150" text-anchor="middle" fill="#8b949e" font-size="9" font-family="monospace">Aug 25</text>
+  <text x="650" y="150" text-anchor="middle" fill="#8b949e" font-size="9" font-family="monospace">Dec 25</text>
+  <text x="770" y="150" text-anchor="middle" fill="#8b949e" font-size="9" font-family="monospace">Mar 26</text>
+  <path d="M80,128 L170,118 L230,108 L310,100 L380,88 L460,75 L530,62 L600,52 L650,38 L700,36 L770,36 L770,130 L80,130 Z" fill="#2E7D32" opacity="0.15"/>
+  <path d="M80,128 L170,118 L230,108 L310,100 L380,88 L460,75 L530,62 L600,52 L650,38 L700,36 L770,36" fill="none" stroke="#2E7D32" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="80" cy="128" r="4" fill="#F9A825" stroke="#0d1117" stroke-width="2"/>
+  <circle cx="230" cy="108" r="4" fill="#F9A825" stroke="#0d1117" stroke-width="2"/>
+  <circle cx="530" cy="62" r="4" fill="#F9A825" stroke="#0d1117" stroke-width="2"/>
+  <circle cx="650" cy="38" r="5" fill="#ff6b6b" stroke="#0d1117" stroke-width="2"/>
+  <circle cx="770" cy="36" r="4" fill="#58a6ff" stroke="#0d1117" stroke-width="2"/>
+  <text x="80" y="24" text-anchor="middle" fill="#F9A825" font-size="8" font-weight="600" font-family="system-ui,sans-serif">NYT article</text>
+  <text x="230" y="100" text-anchor="middle" fill="#8b949e" font-size="7" font-family="system-ui,sans-serif">27% raised</text>
+  <text x="530" y="54" text-anchor="middle" fill="#F9A825" font-size="8" font-weight="600" font-family="system-ui,sans-serif">FCP constituted</text>
+  <text x="650" y="28" text-anchor="middle" fill="#ff6b6b" font-size="9" font-weight="700" font-family="system-ui,sans-serif">$78M — PURCHASED</text>
+  <text x="770" y="28" text-anchor="middle" fill="#58a6ff" font-size="8" font-weight="600" font-family="system-ui,sans-serif">Film released</text>
+</svg>
