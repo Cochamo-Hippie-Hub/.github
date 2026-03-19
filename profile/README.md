@@ -1,11 +1,10 @@
 <!-- 🏔️ COCHAMO HIPPIE HUB — Organization Profile README -->
 <!-- File: .github/profile/README.md -->
-<!-- SVG assets: .github/profile/assets/*.svg -->
 
 <div align="center">
 
 <a href="https://cochamo-hippie-hub.github.io/Granite/">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1500&color=2E7D32&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%8F%94%EF%B8%8F+Cochamo+Hippie+Hub;Open+source+conservation+tech+for+wild+territories" alt="Cochamo Hippie Hub" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1500&color=2E7D32&center=true&vCenter=true&repeat=true&width=600&height=80&lines=%F0%9F%8F%94%EF%B8%8F+Cochamo+Hippie+Hub;Conservation+tech+for+wild+territories" alt="Cochamo Hippie Hub" />
 </a>
 
 <samp>Building digital infrastructure for one of the last wild valleys on Earth</samp>
@@ -40,13 +39,35 @@ We build tools *from inside* the territory, *with* the people who live there.
 
 ## 📊 Territorial impact
 
-![Conservation progress](./assets/fundraising-timeline.svg)
+<div align="center">
 
-![Alerce forests](./assets/alerce-share.svg)
+[![Protected](https://img.shields.io/badge/🌲_Protected-133%2C000_ha-1B5E20?style=for-the-badge)](https://conservapucheguin.org)
+[![Primary Forest](https://img.shields.io/badge/🌳_Primary_Forest-58%2C819_ha-2E7D32?style=for-the-badge)](https://conservapucheguin.org/en/why/)
+[![Alerce](https://img.shields.io/badge/🪵_Alerce_(11%25_global)-17%2C737_ha-4CAF50?style=for-the-badge)](https://conservapucheguin.org/en/faq/)
 
-![Huemul deer](./assets/huemul-range.svg)
+[![Glaciers](https://img.shields.io/badge/🏔️_Glaciers-507_ha-1565C0?style=for-the-badge)](https://conservapucheguin.org/en/why/)
+[![Riverbanks](https://img.shields.io/badge/💧_Riverbanks-372_km-1f6feb?style=for-the-badge)](https://puelopatagonia.cl/en/reserva-de-agua/)
+[![Corridor](https://img.shields.io/badge/🌎_Binational_Corridor-1.6M_ha-F9A825?style=for-the-badge)](https://conservapucheguin.org/en/why/)
 
-![Conservation corridor](./assets/corridor-map.svg)
+[![Fundraised](https://img.shields.io/badge/💰_Raised-USD_%2478M-c0392b?style=for-the-badge)](https://conservapucheguin.org)
+[![Donors](https://img.shields.io/badge/🗳️_Donor_Countries-21-6a3d9a?style=for-the-badge)](https://conservapucheguin.org)
+[![Huemul](https://img.shields.io/badge/🦌_Huemul-Northernmost_population-d35400?style=for-the-badge)](https://conservapucheguin.org/en/faq/)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Conservation progress](https://raw.githubusercontent.com/Cochamo-Hippie-Hub/.github/main/profile/assets/fundraising-timeline.svg)
+
+![Alerce forests](https://raw.githubusercontent.com/Cochamo-Hippie-Hub/.github/main/profile/assets/alerce-share.svg)
+
+![Huemul range](https://raw.githubusercontent.com/Cochamo-Hippie-Hub/.github/main/profile/assets/huemul-range.svg)
+
+![Conservation corridor](https://raw.githubusercontent.com/Cochamo-Hippie-Hub/.github/main/profile/assets/corridor-map.svg)
+
+</div>
 
 ---
 
